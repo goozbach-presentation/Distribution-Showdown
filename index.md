@@ -7,7 +7,7 @@ title: 'Distro Showdown'
 
 * [Slides](output/Showdown.html)
 
-* [Source](https://github.com/goozbach-presentation/Distro-Showdown)
+* [Source](https://github.com/goozbach-presentation/Distribution-Showdown)
 
 
 
