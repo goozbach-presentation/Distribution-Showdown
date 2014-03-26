@@ -1,11 +1,11 @@
 ---
 layout: main
-title: 'Distro Showdown'
+title: 'Distro Shootout'
 ---
 
 ## Distro Showdown
 
-* [Slides](output/Showdown.html)
+* [Slides](output/ShootOut.html)
 
 * [Source](https://github.com/goozbach-presentation/Distribution-Showdown)
 
