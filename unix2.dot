@@ -1,0 +1,8 @@
+digraph G {
+    UNIX -> BSD;
+    UNIX -> "SYS-V";
+    BSD  -> NeXSTEP -> "Mac OSX";
+    "SYS-V" -> HPUX;
+    "SYS-V" -> Solaris;
+    "GNU";
+}
